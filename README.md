@@ -28,10 +28,6 @@ Sou um desenvolvedor focado em **Java** no backend e **Angular** no frontend. Te
 - **Machine Learning** e **Inteligência Artificial**: Estou explorando o impacto da IA no desenvolvimento de software e buscando aprender novas técnicas e bibliotecas.
 - **Docker e Kubernetes**: Buscando entender melhor como criar ambientes de desenvolvimento e produção mais eficientes e escaláveis.
 
-## 📈 Estatísticas
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&count_private=true&hide=prs)
-
 ## 🤝 Como me encontrar
 
 - LinkedIn: [linkedin.com/in/ewerton-casado](https://www.linkedin.com/in/ewerton-casado-59a836202/ )
