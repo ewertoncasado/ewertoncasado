@@ -19,9 +19,9 @@ Sou um desenvolvedor focado em **Java** no backend e **Angular** no frontend. Te
 - **Outros:** APIs REST, GraphQL, Microservices, Testes automatizados
 
 ##📌 Projetos em destaque
-🔗 [Projeto Angular](https://github.com/ewertoncasado/Angular)  
-🔗 [Landing Page](https://github.com/ewertoncasado/Landing-Page-Netflixcopy)  
-🔗 [App JS/FULL_STACK](https://github.com/ewertoncasado/Barber-Shop/tree/main)
+- 🔗 [Projeto Angular](https://github.com/ewertoncasado/Angular)  
+- 🔗 [Landing Page](https://github.com/ewertoncasado/Landing-Page-Netflixcopy)  
+- 🔗 [App JS/FULL_STACK](https://github.com/ewertoncasado/Barber-Shop/tree/main)
 
 ## 🌱 O que estou aprendendo atualmente
 
