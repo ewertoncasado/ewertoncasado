@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou Ewerton
 
-<!--
-**ewertoncasado/ewertoncasado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-end em formação  
+🚀 Focado em Angular, JavaScript e interfaces modernas  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- HTML, CSS, JavaScript
+- Angular, TypeScript
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+🔗 [[Projeto Angular](https://github.com/ewertoncasado/Angular)]  
+🔗 [Landing Page](https://github.com/ewertoncasado/Landing-Page-Netflixcopy)  
+🔗 [App JS/FULL_STACK](https://github.com/ewertoncasado/Barber-Shop/tree/main)
+
+## 📫 Contato
+Email: tom_casado@hotmail.com
